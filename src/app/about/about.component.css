@@ -1,0 +1,43 @@
+
+*{
+  margin: 4px;
+  padding: 4px;
+}
+.background-image{
+  background-image: url('/assets/claimImg.jpg');
+  background-size:cover;
+  
+  height:100vh;
+  margin-bottom:60px;
+}
+
+/* .left{
+    position:absolute;
+    top: 80%;
+    left: 10%;
+   
+    transform:none;
+    color: rgb(17, 27, 24);
+    font-family:'Times New Roman', Times, serif;
+  }
+  .right{
+    position:absolute;
+    top: 120%;
+    left: 10%;
+    
+    transform:none;
+    color: rgb(17, 27, 24);
+    font-family:'Times New Roman', Times, serif;
+  } */
+  .centered {
+    position:absolute;
+    top: 40%;
+    left: 80%;
+    transform:none;
+    color: rgb(17, 27, 24);
+    font-family:'Times New Roman', Times, serif;
+   
+  }
+  .h3{
+    color: rgb(237, 100, 111);
+  }
